@@ -2,4 +2,6 @@
   import Comp from "./components/Care360.svelte";
 </script>
 
-<Comp />
+<div style="padding:2em">
+  <Comp />
+</div>
