@@ -14,8 +14,6 @@
       <div class="float-left px-2 text-xl"  >  ✔ Done</div>
       <div class="float-right px-2 " > Hide Details</div>
      <div>
-
-
      </div>
      
     </div>
